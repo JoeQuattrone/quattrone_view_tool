@@ -21,7 +21,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+QuattroneViewTool::Renderer.copyright('Joe Quattrone', 'All rights reserved')
+```
 
 ## Development
 
